@@ -1,0 +1,26 @@
+.red{
+    height: 200px;
+    width: 800px;
+    background-color: #FF671F;
+
+  }
+  .white{
+    height: 200px;
+    width: 800px;
+    background-color: white;
+   
+  }
+  .blue{
+    height: 200px;
+    width: 200px;
+    background-color: navy;
+    border-radius: 50%;
+    position: relative;
+    left: 300px;
+  }
+  .Green{
+    height: 200px;
+    width: 800px;
+    background-color: green;
+   
+  }
